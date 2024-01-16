@@ -90,7 +90,7 @@ The YOLOv8 series consists of different iterations—YOLOv8n, YOLOv8s, YOLOv8m, 
           
            + CASE 6: Aligned ground truth and predicted boxes with the same counts, computes IoU for each predicted box                   against all ground truth boxes, then calculates the average.
              <p align="center">
-               <img src="(https://github.com/RimTouny/Single-Object-Tracking-with-Yolov8/assets/48333870/2d211968-94bf-455e-94aa-1cb450f3a892">
-           </p>
+               <img src="https://github.com/RimTouny/Single-Object-Tracking-with-Yolov8/assets/48333870/2d211968-94bf-455e-94aa-1cb450f3a892">
+            </p>
 
        
