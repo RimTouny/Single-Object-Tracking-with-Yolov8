@@ -12,9 +12,12 @@ The YOLOv8 series consists of different iterations—YOLOv8n, YOLOv8s, YOLOv8m, 
            <img src="https://github.com/RimTouny/Single-Object-Tracking-with-Yolov8/assets/48333870/80ab82a8-c972-4be7-af51-7a84bc8dee72">
          </p>
 
+- [Google Colab Pro+](https://colab.google/): Ensure you have access to Colab Pro+ for enhanced features.
 - Required libraries: scikit-learn, pandas, matplotlib.
 - Execute cells in a Jupyter Notebook environment.
-- The uploaded code has been executed and tested successfully within the [Google Colab](https://colab.google/) environment.
+- Google Drive Setup: Create a folder named "CV" in your Google Drive to store project files.
+- Upload Data: Transfer the "elg7186_projectdata" folder into the "CV" folder on your Google Drive.
+- Running the Code: Mount Google Drive in Colab, access the project data folder, and execute the code for your specific project needs.
 
 ### Dataset Description:
 - The dataset is designed for object detection and tracking tasks, containing three classes: 'linear_movement_rotate,' 'rotation_rotate,' and 'fixed_random_rotate.'
